@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>prestapp_v2_module</name>
+    <displayName><![CDATA[PrestApp Module]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[This is a module of PrestaShop]]></description>
+    <author><![CDATA[Galvintec]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure about removing this module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
